@@ -1,0 +1,15 @@
+str1 str2 str3 str5ztr1 str1str2 sTTFFr1 str6 str4str1str2 str3str5
+str3str4 str2sTTTTr1 sfffr1zttttr1 str2str2 str3str3 str3str4 str3str3
+stttttr1 str2 str3 str4 str5 str5 str4 str3 str2 str1 str0 str0
+str2 str22 sfr11 str12 str34 str13 str12str34str13 str2sFFFr1str11
+sfffffr1 stR2 str3 sTr5Str1 sTTTTr1str2 stR1 Str6 str4stR1str2 str3sTr5
+Str3str4 stR2sTr1 sTr1STR1 str2sTr2 str3str3 STr3str4 STr3stR3
+Str1 str2 str3 str4 str5 zfr1 zfr2 str3 ztr2 ztr1 str0 str0
+str2 str22 stR11 str12 str34 Str13 str12str34sTR13 str2str1STr11
+sr1 str2 str3 str4 str5 str5 str4 str3 str2 sr1 str0 str0
+sr1 str2 str3 str4 str5 str5 str4 str3 str2 sr1 str0 str0
+zfr1 sfr2 sfr3 sfr5stttr1 sffffr1stfr1 stttr1 sfffr6 str4sTTr1sFFr2 str3str5
+str3str4 str2ztr1 sTTTTr1sFFFFr1 str2str2 str3str3 str3str4 str3str3
+str2 str22 sttttttttttttttr11 str12 str34 str13 str12str34str13 str2sFFFFFr1sTTTr11
+sr1 sr2sr1 sr2 sffr2 sfr21sfr21 sfffffr21
+sr1 sr2sr1 sr2 sffr2 zfr21zfr21 ztttr21 sfffffr21 
