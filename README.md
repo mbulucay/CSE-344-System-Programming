@@ -4,7 +4,7 @@ The course was given by Dr. Erchan Aptoula at Gebze Technical University for the
 
 Links:
 * [Systems Programming Course](https://abl.gtu.edu.tr/ects/?dil=en&modul=ders_bilgi_formu&bolum=104&tip=lisans&duzey=ucuncu&dno=BİL%20344)
-* [Dr. Erchan Aptoula](https://www.gtu.edu.tr/personel/1040/160603/erchan-aptoula.aspx?languageId=2)
+* [Prof. Dr. Erchan Aptoula](https://www.gtu.edu.tr/personel/1040/160603/erchan-aptoula.aspx?languageId=2)
 * [Department of Computer Engineering](https://www.gtu.edu.tr/kategori/91/3/bilgisayar-muhendisligi.aspx?languageId=2)
 * [Gebze Technical University](https://www.gtu.edu.tr/?languageId=2)
 
